@@ -1,0 +1,34 @@
+body {
+    background-color: #08d7c6;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+table {
+    width: 40%;
+    height: 250px;
+    margin: auto;
+    margin-top: 175px;
+    padding: 15px 10px;
+    text-align: center;
+    background-color: #fade97;
+    color: #b45b78;
+}
+
+table, #input-box {
+    border: 1px solid black;
+}
+
+#input-box {
+    background-color: #405b5f;
+    color: white;
+}
+
+button {
+    width: 130px;
+    height: 40px;
+    background-color: #b45b78;
+    color: white;
+    font-weight: bolder;
+}
